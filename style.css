@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+  position: relative;
+}
+input {
+  height: 30px;
+  width: 300px;
+  border-radius: 10px;
+}
+button {
+  width: 100px;
+  height: 30px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  position: absolute;
+  margin-left: 200px;
+}
